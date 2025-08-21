@@ -18,12 +18,17 @@ time.sleep: para evitar sobrecarregar o servidor com requisições rápidas
 **Funcionalidades**
 
 Coleta de resultados de todas as Copas do Mundo listadas.
+
 Consolida os dados em um DataFrame pandas e exporta para Excel.
+
 Automatiza requisições respeitando o intervalo de 1 segundo entre cada ano, evitando bloqueios.
 
 **O que pratiquei**
 
 Coleta e extração de dados de páginas web com Python (requests e BeautifulSoup).
+
 Organização e manipulação de dados usando pandas e exportação para Excel.
+
 Automação de tarefas repetitivas e boas práticas ao acessar sites (uso de sleep).
+
 Interpretação de estruturas HTML e aplicação de lógica em loops e funções Python.

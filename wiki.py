@@ -9,8 +9,7 @@ lista_anos_copa = [1930,1934,1938,1950,1954,1962,1966,1970,1974,1978,1982,1986,1
 todos_dfs = []
 
 def jogos_copa(ano):
-    """Devolve todos os resultados da copa do ano desejado.
-    Digite o ano da copa como parametro."""
+    """Devolve todos os resultados da copa do ano desejado."""
     url = f'https://en.wikipedia.org/wiki/{ano}_FIFA_World_Cup'
 
     request = requests.get(url)

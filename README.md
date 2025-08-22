@@ -11,13 +11,13 @@ O objetivo é automatizar a coleta de dados históricos de futebol de maneira es
 
 **Python** 
 
-**requests:** para fazer requisições HTTP às páginas da Wikipedia
+**requests:** Para fazer requisições HTTP às páginas da Wikipedia
 
-**BeautifulSoup:** para parsear e extrair os dados HTML
+**BeautifulSoup:** Para parsear e extrair os dados HTML
 
-**pandas:** para manipulação e consolidação dos dados
+**pandas:** Para manipulação e consolidação dos dados
 
-**time.sleep:** para evitar sobrecarregar o servidor com requisições rápidas
+**time.sleep:** Para evitar sobrecarregar o servidor com requisições rápidas
 
 ## Funcionalidades
 
